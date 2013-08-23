@@ -1,0 +1,4 @@
+C:\Projects\PlayPen\CodeEval-Medium\SampleApplication.Web.Ui\SampleApplication.Web.Ui\SampleApplication.Web.Ui\bin\SampleApplication.Web.Ui.dll
+C:\Projects\PlayPen\CodeEval-Medium\SampleApplication.Web.Ui\SampleApplication.Web.Ui\SampleApplication.Web.Ui\bin\SampleApplication.Web.Ui.pdb
+C:\Projects\PlayPen\CodeEval-Medium\SampleApplication.Web.Ui\SampleApplication.Web.Ui\SampleApplication.Web.Ui\obj\Debug\SampleApplication.Web.Ui.dll
+C:\Projects\PlayPen\CodeEval-Medium\SampleApplication.Web.Ui\SampleApplication.Web.Ui\SampleApplication.Web.Ui\obj\Debug\SampleApplication.Web.Ui.pdb
