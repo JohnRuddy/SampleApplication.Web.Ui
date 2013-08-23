@@ -13,5 +13,10 @@ namespace SampleApplication.Web.Ui
         {
 
         }
+
+        protected void CountyUpdateButton_Click(object sender, EventArgs e)
+        {
+            CountyLabel.Text = "Galway";
+        }
     }
 }

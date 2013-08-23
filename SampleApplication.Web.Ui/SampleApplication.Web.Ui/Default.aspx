@@ -9,7 +9,10 @@
 <body>
     <form id="form1" runat="server">
     <div>
-    <h1>Hello World, especially to everyone in Mayo!</h1>
+    <h1>Hello World, especially to everyone in 
+        <asp:Label ID="CountyLabel" runat="server" Text="Mayo"></asp:Label></h1>
+        <asp:Button ID="CountyUpdateButton" runat="server" Text="Update County" 
+            onclick="CountyUpdateButton_Click" />
     </div>
     </form>
 </body>
