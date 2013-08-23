@@ -17,8 +17,8 @@ namespace SampleApplication.Web.Ui
 
         protected void CountyUpdateButton_Click(object sender, EventArgs e)
         {
-            CountyLabel.Text = "Meath";
-            CountyLabel.ForeColor = Color.Green;
+            CountyLabel.Text = "Cork";
+            CountyLabel.ForeColor = Color.Red;
         }
     }
 }
