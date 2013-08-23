@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Drawing;
 using System.Linq;
 using System.Web;
 using System.Web.UI;
@@ -16,7 +17,8 @@ namespace SampleApplication.Web.Ui
 
         protected void CountyUpdateButton_Click(object sender, EventArgs e)
         {
-            CountyLabel.Text = "Galway";
+            CountyLabel.Text = "Dublin";
+            CountyLabel.ForeColor = Color.Blue;
         }
     }
 }
